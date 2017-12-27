@@ -10,3 +10,4 @@ Typescript is used to implement classes in Angular.
 
 The decorator component is provided by Angular which adds metadata to the class. Once we decorate a component class with a decorator it becomes an Angular component.
 
+
