@@ -20,6 +20,11 @@ The second option is to use a <style> tag in the view template of the component.
 The third option is to use the @Component decorator styles or stylesUrls property of the component.<br/>
 With the styles attribute you specify an array of styles.<br/>
 The stylesUrls property which uses an array of urls, allows us to reference an external style sheets for the component view template.<br/>
+<p>
+Interpolation vs. Property Binding<br/>
+ src={{imagePath}} /> <-- interpolation<br/> 
+ [src] = ‘imagePath’ /> <-- property binding double/single quotes<br/>
+
 
 
 
