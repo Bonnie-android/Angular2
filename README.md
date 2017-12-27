@@ -11,6 +11,6 @@ Typescript is used to implement classes in Angular.
 The decorator component is provided by Angular which adds metadata to the class. Once we decorate a component class with a decorator it becomes an Angular component.
 
 The AppModule is the root module that bootstraps and launches the application. The components must be imported and declared here.
-The component must be imported and declared in the module in order to be registered. It can then be used as a directive in a view template.
+The component must be imported and declared in the module in order to be registered. The selector can then be used as a directive in a view template.
 
 
