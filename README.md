@@ -27,4 +27,7 @@ Interpolation vs. Property Binding<br/>
 
 
 
+To Install and Setup an Angular application in Visual Studio 2017 please see SETTING UP ANGULAR IN VISUAL STUDIO 2017.docx
+
+
 
